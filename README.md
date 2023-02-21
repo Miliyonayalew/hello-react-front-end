@@ -5,7 +5,7 @@
  
   <br/>
 
-  <h3><b>Hello-Rails-Back-end</b></h3>
+  <h3><b>Hello-React-Front-end</b></h3>
 
 </div>
 
